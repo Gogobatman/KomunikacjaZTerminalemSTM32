@@ -117,6 +117,8 @@ int main(void)
   /* USER CODE BEGIN WHILE */
 	uint16_t data[5]={'H','E','L','L','O'};
 	uint16_t dataIn[5]={'X','X','X','X','X'};
+	//https://www.youtube.com/watch?v=Ldbe1rIgbxg
+	//https://forbot.pl/blog/kurs-stm32-f4-11-komunikacja-przez-usb-id13477
   while (1)
   {
     /* USER CODE END WHILE */
